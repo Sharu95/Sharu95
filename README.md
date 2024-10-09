@@ -18,28 +18,22 @@
   <img style="float:right; margin: 60px -240px 0 0" src="rocket.svg"> -->
 </div>
 
-<div align="left">
-Forever rockets
+<div style="display: flex; justify-content: center; align-items center; column-gap: 10px">
+
+  ![Sharu95's
+  Stats](https://github-readme-stats.vercel.app/api?username=Sharu95&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+
+  ![Sharu95's
+  Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sharu95&theme=gruvbox&hide_border=false)
+
 </div>
 
-<!-- <div align="right">
-  <img style="background:url(./space.svg); border-radius: 100%" src="rocket.svg">
-</div> -->
+<div style="display: flex; justify-content: center">
+
+  ![Sharu95's Top
+  Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharu95&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
 
-<!-- <div class="divider"></div> -->
+  <!-- ![](https://github-contributor-stats.vercel.app/api?username=Sharu95&limit=5&theme=gruvbox&combine_all_yearly_contributions=false) -->
 
-<!--
-**Sharu95/Sharu95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
