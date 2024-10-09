@@ -18,7 +18,7 @@
   <img style="float:right; margin: 60px -240px 0 0" src="rocket.svg"> -->
 </div>
 
-<div style="display: flex; justify-content: center; align-items center; column-gap: 10px">
+<div align="center">
 
   ![Sharu95's
   Stats](https://github-readme-stats.vercel.app/api?username=Sharu95&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
@@ -28,7 +28,7 @@
 
 </div>
 
-<div style="display: flex; justify-content: center">
+<div align="center">
 
   ![Sharu95's Top
   Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharu95&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
