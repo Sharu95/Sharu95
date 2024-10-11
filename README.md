@@ -21,19 +21,19 @@
 <div align="center">
 
   ![Sharu95's
-  Stats](https://github-readme-stats.vercel.app/api?username=Sharu95&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+  Stats](https://github-readme-stats.vercel.app/api?username=Sharu95&theme=codeSTACKr&show_icons=true&hide_border=false&count_private=true)
 
   ![Sharu95's
-  Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sharu95&theme=gruvbox&hide_border=false)
+  Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sharu95&theme=codeSTACKr&hide_border=false)
 
 </div>
 
 <div align="center">
 
   ![Sharu95's Top
-  Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharu95&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
+  Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharu95&theme=codeSTACKr&show_icons=true&hide_border=false&layout=compact)
 
 
-  <!-- ![](https://github-contributor-stats.vercel.app/api?username=Sharu95&limit=5&theme=gruvbox&combine_all_yearly_contributions=false) -->
+  <!-- ![](https://github-contributor-stats.vercel.app/api?username=Sharu95&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=false) -->
 
 </div>
