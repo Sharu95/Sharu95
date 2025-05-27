@@ -13,12 +13,23 @@
 </div>
 
 <div align="center">
-  <!-- <img style="background-image: url('space.svg')" src="rocket.svg"> -->
-  <!-- <img style="float:right; width: 300px; height: 300px; border-radius: 100%" src="space.svg">
-  <img style="float:right; margin: 60px -240px 0 0" src="rocket.svg"> -->
-</div>
 
-<div align="center">
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <img src="metrics-isocalendar.svg" alt="Metrics Isocalendar">
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <img src="metrics-habits.svg" alt="Metrics habits">
+        </picture>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 <div align="center">
 
@@ -38,7 +49,6 @@
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharu95&theme=default&hide_border=true" alt="Sharu95's Streak" />
-
 
   <!-- ![](https://github-contributor-stats.vercel.app/api?username=Sharu95&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=false) -->
 
