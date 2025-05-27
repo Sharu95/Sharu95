@@ -23,7 +23,12 @@
       </td>
       <td>
         <picture>
-          <img src="metrics-habits.svg" alt="Metrics habits">
+          <img src="metrics-habits-facts.svg" alt="Metrics habits">
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <img src="metrics-habits-charts.svg" alt="Metrics habits">
         </picture>
       </td>
     </tr>

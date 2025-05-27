@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 * * 0"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -11,12 +11,23 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: "Habits facts"
+        uses: lowlighter/metrics@latest
         with:
-            filename: metrics-habits.svg
+            filename: metrics-habits-facts.svg
             token: ${{ secrets.METRICS_TOKEN }}
             base: ""
             plugin_habits: yes
             plugin_habits_facts: yes
-            plugin_habits_charts: yes
+            plugin_habits_charts: no
             config_timezone: Europe/Oslo
+      - name: "Habits charts"
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-habits-charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Europe/Oslo
